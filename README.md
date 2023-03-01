@@ -4,16 +4,17 @@
 
 ### - I'm a 25 year-old DevOps Enthusiast from France.
 
-<img hight="400" width="500" alt="GIF" align="right" src="[gif](https://64.media.tumblr.com/621a5a5bb5cc0542749190348be9dc7e/5cdb19b97931c243-a6/s540x810/ce65b86e40908fbc1662dae9b37892b228eb108d.gifv)">
+<img hight="400" width="500" alt="GIF" align="right" src="[Benimaru gif](./Asset/Benimaru.webp)">
 
 ### - Learning :
+
 - ✨ Server & App Automation
 - ✨ CI/CD
 
-### - Hobbies : 
+### - Hobbies :
+
 - ✨ Casual Gaming
 - ✨ Watching Anime
-- ✨ Megan The Stallion
 - ✨ Skateboarding
 
 </br>

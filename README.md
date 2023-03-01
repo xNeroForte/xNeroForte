@@ -4,7 +4,7 @@
 
 ### - I'm a 25 year-old DevOps Enthusiast from France.
 
-<img hight="400" width="500" alt="GIF" align="right" src="[Benimaru gif](./Asset/Benimaru.webp)">
+<img hight="400" width="500" alt="GIF" align="right" src="./Asset/Benimaru.webp">
 
 ### - Learning :
 

@@ -26,9 +26,8 @@
 <p align="left">
   If you need to reach me for anything, please send a DM ! ✨
   </br>
-<a href="https://linkedin.com/in/annick-wora" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="annick-wora" height="30" width="40" /></a>
 <a href="https://instagram.com/xxneroforte" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="xneroforte" height="30" width="40" /></a>
-<a href="https://discord.gg/Duke Annikka#5679" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Duke Annikka#5679" height="30" width="40" /></a>
+<a href="https://discord.gg/duke_annikka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="duke_annika" height="30" width="40" /></a>
 </p>
 </br>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=xneroforte&show_icons=true&locale=en&layout=compact" alt="xneroforte" /></p>

@@ -2,14 +2,14 @@
 
 # About me ☁️ :
 
-### - I'm a 26 year-old DevOps Apprentice from France.
+### - I WILL BE BACK SOON
 
-<img hight="400" width="500" alt="GIF" align="right" src="./Asset/Benimaru.webp">
+<img hight="400" width="500" alt="GIF" align="right" src="./Asset/tv-static.gif">
 
 ### - Learning :
-- ✨ Network Management
-- ✨ Server & App Automation
-- ✨ CI/CD
+- ✨ AI
+- ✨ Game programming
+- ✨ How to enjoy life
 
 ### - Hobbies :
 

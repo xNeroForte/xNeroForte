@@ -7,9 +7,9 @@
 <img hight="400" width="500" alt="GIF" align="right" src="./Asset/tv-static.gif">
 
 ### - Learning :
-- ✨ AI
+- ✨ DevOps
 - ✨ Game programming
-- ✨ How to enjoy life
+- ✨ Cybersecurity
 
 ### - Hobbies :
 
@@ -26,7 +26,7 @@
 <p align="left">
   If you need to reach me for anything, please send a DM ! ✨
   </br>
-<a href="https://instagram.com/xxneroforte" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="xneroforte" height="30" width="40" /></a>
+  
 <a href="https://discord.gg/duke_annikka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="duke_annika" height="30" width="40" /></a>
 </p>
 </br>
